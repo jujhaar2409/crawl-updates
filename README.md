@@ -1,6 +1,6 @@
 # Crawl Updates
 
-A basic crawler written using nodejs, cheerio and axios which checks a particular website and sends a mail if there is any update to the state of the website. The previous state of the website is stored using node-persist.
+A basic crawler, written using nodejs, cheerio and axios which checks a particular website and sends a mail if there is any update to the state of the website. The previous state of the website is stored using node-persist.
 
 ## Automating
 
